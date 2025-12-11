@@ -1,5 +1,11 @@
 # 👋 Hi, I’m Rishab Hanamar
 
+>🎓 **Master’s Student in Software Engineering**  
+>📍 University of Europe for Applied Sciences, Berlin, Germany
+
+
+---
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-blue?style=for-the-badge&logoColor=yellow)
